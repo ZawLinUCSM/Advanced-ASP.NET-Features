@@ -8,8 +8,8 @@
 # Learning objectives
   	Resolving dependencies with Unity
     The scope of a dependency
- 	  Enabling CORS
- 	  Creating a custom CORS policy
+    Enabling CORS
+    Creating a custom CORS policy
   	Route versioning
   	Creating a custom message handler
   	Setting and getting cookies in Web API
