@@ -7,7 +7,7 @@
 
 # Learning objectives
   	Resolving dependencies with Unity
-  	The scope of a dependency
+    The scope of a dependency
  	  Enabling CORS
  	  Creating a custom CORS policy
   	Route versioning
