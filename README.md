@@ -1,2 +1,6 @@
 # Advanced-ASP.NET-Features
-Custom features example for Dependency Resolver, HTTP Message Handler, CORS and Cookies
+  1. Custom features example for Dependency Resolver
+  2. CORS poliy Attribute
+  3. Versioning Examples
+  4. HTTP Message Handler
+  2. Cookies Get/Set Handler
